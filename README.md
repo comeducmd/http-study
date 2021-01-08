@@ -38,11 +38,11 @@
 |  |  [__21장__](./5_Content_Publishing_and_Distribution/21_Logging_and_Usage_Tracking.md) 로깅과 사용 추적 | 2021. 02. 23. | 김준영 |
 
 ### 참가자
-- 최지원
-- 윤세린
-- 장정윤
+- [최지원](https://github.com/jason-choi-skku)
+- [윤세린](https://github.com/Serin-Yoon)
+- [장정윤](https://github.com/yoonsome)
 - [박성우](https://github.com/cos18)
-- 김준영
+- [김준영](https://github.com/junyoung44)
 
 ### 참고
 [이 레포지토리](https://github.com/Kraken-Addicts/HTTP-The-Definitive-Guide)의 표를 참고해 README, 폴더 구조를 만들었습니다.
