@@ -7,7 +7,7 @@
 | 　 | 　 | 　스터디 날짜　 | 　담당　 |
 |:---|:---|:---:|:---:|
 | [__1부 HTTP: 웹의 기초__](https://github.com/Kraken-Addicts/HTTP-The-Definitive-Guide/tree/master/1_HTTP_The_Webs_Foundation) | 　 | 　 | 　 |
-|  |  [__01장__](./blob/master/1_HTTP_Foundation_of_the_Web/01_Overview_of_HTTP.md) HTTP 개관 | 2021. 01. 12. | 최지원 |
+|  |  [__01장__](./1_HTTP_Foundation_of_the_Web/01_Overview_of_HTTP.md) HTTP 개관 | 2021. 01. 12. | 최지원 |
 |  |  [__02장__](./1_HTTP_The_Webs_Foundation/02_URLs_and_Resources.md) URL과 리소스 | 2021. 01. 12. | 최지원 |
 |  |  [__03장__](./1_HTTP_The_Webs_Foundation/03_HTTP_Messages.md) HTTP 메시지 | 2021. 01. 12. | 윤세린 |
 |  |  [__04장__](./1_HTTP_The_Webs_Foundation/04_Connection_Management.md) 커넥션 관리 | 2021. 01. 19. | 장정윤 |
