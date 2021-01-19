@@ -9,7 +9,7 @@
 | [__1부 HTTP: 웹의 기초__](https://github.com/comeducmd/http-study/tree/master/1_HTTP_Foundation_of_the_Web) | 　 | 　 | 　 |
 |  |  [__01장__](./1_HTTP_Foundation_of_the_Web/01_Overview_of_HTTP.md) HTTP 개관 | 2021. 01. 12. | 최지원 |
 |  |  [__02장__](./1_HTTP_Foundation_of_the_Web/02_URLs_and_Resources.md) URL과 리소스 | 2021. 01. 12. | 최지원 |
-|  |  [__03장__](./1_HTTP_Foundation_of_the_Web/03_HTTP_Messages.md) HTTP 메시지 | 2021. 01. 12. | 윤세린 |
+|  |  [__03장__](./1_HTTP_Foundation_of_the_Web/03_HTTP_Message.md) HTTP 메시지 | 2021. 01. 12. | 윤세린 |
 |  |  [__04장__](./1_HTTP_Foundation_of_the_Web/04_Connection_Management.md) 커넥션 관리 | 2021. 01. 19. | 장정윤 |
 |||||
 | [__2부 HTTP 아키텍처__](https://github.com/comeducmd/http-study/tree/master/2_HTTP_Architecture) | 　 | 　 | 　 |
