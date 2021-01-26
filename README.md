@@ -16,7 +16,7 @@
 |  |  [__05장__](./2_HTTP_Architecture/05_Web_servers.md) 웹 서버 | 2021. 01. 19. |  박성우 |
 |  |  [__06장__](./2_HTTP_Architecture/06_Proxies.md) 프락시 | 2021. 01. 19. | 김준영 |
 |  |  [__07장__](./2_HTTP_Architecture/07_Caching.md) 캐시 | 2021. 01. 26. | 최지원 |
-|  |  [__08장__](./2_HTTP_Architecture/08_Integration_Points.md) 통합점: 게이트웨이, 터널, 릴레이 | 2021. 01. 26. | 윤세린 |
+|  |  [__08장__](./2_HTTP_Architecture/08_Integration_Point.md) 통합점: 게이트웨이, 터널, 릴레이 | 2021. 01. 26. | 윤세린 |
 |  |  [__09장__](./2_HTTP_Architecture/09_Web_Robots.md) 웹 로봇 | 2021. 01. 26. | 장정윤 |
 |  |  [__10장__](./2_HTTP_Architecture/10_HTTP.md) HTTP/2.0 | 2021. 02. 02. | 박성우 |
 |||||
