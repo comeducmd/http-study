@@ -18,16 +18,16 @@
 |  |  [__07장__](./2_HTTP_Architecture/07_Caching.md) 캐시 | 2021. 01. 26. | 최지원 |
 |  |  [__08장__](./2_HTTP_Architecture/08_Integration_Point.md) 통합점: 게이트웨이, 터널, 릴레이 | 2021. 01. 26. | 윤세린 |
 |  |  [__09장__](./2_HTTP_Architecture/09_Web_Robots.md) 웹 로봇 | 2021. 01. 26. | 장정윤 |
-|  |  [__10장__](./2_HTTP_Architecture/10_HTTP.md) HTTP/2.0 | 2021. 02. 02. | 박성우 |
+|  |  [__10장__](./2_HTTP_Architecture/10_HTTP_2.md) HTTP/2.0 | 2021. 02. 02. | 박성우 |
 |||||
 | [__3부 식별, 인가, 보안__](https://github.com/Kraken-Addicts/HTTP-The-Definitive-Guide/tree/master/3_Identification_Authorization_and_Security) | 　 | 　 | 　 |
 |  |  [__11장__](./3_Identification_Authorization_and_Security/11_Client_Identification_and_Cookies.md) 클라이언트 식별과 쿠키 | 2021. 02. 02. | 김준영 |
-|  |  [__12장__](./3_Identification_Authorization_and_Security/12_Basic_Authentication.md) 기본 인증 | 2021. 02. 02. |  최지원  |
+|  |  [__12장__](./3_Identification_Authorization_and_Security/12_Basic_Authentication.md) 기본 인증 | 2021. 02. 02. |  박성우  |
 |  |  [__13장__](./3_Identification_Authorization_and_Security/13_Digest_Authentication.md) 다이제스트 인증 | 2021. 02. 09. | 윤세린 |
 |  |  [__14장__](./3_Identification_Authorization_and_Security/14_Secure_HTTP.md) 보안 HTTP | 2021. 02. 09. | 장정윤 |
 |||||
 | [__4부 엔터티, 인코딩, 국제화__](https://github.com/comeducmd/http-study/tree/master/3_Identification_Authorization_Security) | 　 | 　 | 　 |
-|  |  [__15장__](./4_Entities_Encodings_and_Internationalization/15_Entities_and_Encodings.md) 엔터티와 인코딩 | 2021. 02. 09. | 박성우 |
+|  |  [__15장__](./4_Entities_Encodings_and_Internationalization/15_Entities_and_Encodings.md) 엔터티와 인코딩 | 2021. 02. 09. | 최지원 |
 |  |  [__16장__](./4_Entities_Encodings_and_Internationalization/16_Internationalization.md) 국제화 | 2021. 02. 16. | 김준영 |
 |  |  [__17장__](./4_Entities_Encodings_and_Internationalization/17_Content_Negotiation_and_Transcoding.md) 내용 협상과 트랜스코딩 | 2021. 02. 16. | 최지원 |
 |||||
