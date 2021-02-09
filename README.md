@@ -21,10 +21,10 @@
 |  |  [__10장__](./2_HTTP_Architecture/10_HTTP_2.md) HTTP/2.0 | 2021. 02. 02. | 박성우 |
 |||||
 | [__3부 식별, 인가, 보안__](https://github.com/Kraken-Addicts/HTTP-The-Definitive-Guide/tree/master/3_Identification_Authorization_and_Security) | 　 | 　 | 　 |
-|  |  [__11장__](./3_Identification_Authorization_and_Security/11_Client_Identification_and_Cookies.md) 클라이언트 식별과 쿠키 | 2021. 02. 02. | 김준영 |
-|  |  [__12장__](./3_Identification_Authorization_and_Security/12_Basic_Authentication.md) 기본 인증 | 2021. 02. 02. |  박성우  |
-|  |  [__13장__](./3_Identification_Authorization_and_Security/13_Digest_Authentication.md) 다이제스트 인증 | 2021. 02. 09. | 윤세린 |
-|  |  [__14장__](./3_Identification_Authorization_and_Security/14_Secure_HTTP.md) 보안 HTTP | 2021. 02. 09. | 장정윤 |
+|  |  [__11장__](./3_Identification_Authorization_Security/11_Client_Identification_and_Cookies.md) 클라이언트 식별과 쿠키 | 2021. 02. 02. | 김준영 |
+|  |  [__12장__](./3_Identification_Authorization_Security/12_Basic_Authentication.md) 기본 인증 | 2021. 02. 02. |  박성우  |
+|  |  [__13장__](./3_Identification_Authorization_Security/13_Digest_Authentication.md) 다이제스트 인증 | 2021. 02. 09. | 윤세린 |
+|  |  [__14장__](./3_Identification_Authorization_Security/14_Secure_HTTP.md) 보안 HTTP | 2021. 02. 09. | 장정윤 |
 |||||
 | [__4부 엔터티, 인코딩, 국제화__](https://github.com/comeducmd/http-study/tree/master/3_Identification_Authorization_Security) | 　 | 　 | 　 |
 |  |  [__15장__](./4_Entities_Encodings_and_Internationalization/15_Entities_and_Encodings.md) 엔터티와 인코딩 | 2021. 02. 09. | 최지원 |
