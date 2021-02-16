@@ -55,7 +55,7 @@
 
 3. 브라우저 A와 브라우저 B가 서버에서 온 문자를 UTF-8를 사용하여 디코딩했더니 각각 가와 나가 되었다. 가와 나가 다르게 갖는 특성을 모두 고르시오.
 
-![image](https://github.com/comeducmd/http-study/issues/1#issue-809120685)
+![Untitled](https://user-images.githubusercontent.com/67185391/108041239-9b170000-7081-11eb-8ae8-9676bfb380c6.png)
 
   
     <보기>
