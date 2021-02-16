@@ -32,10 +32,10 @@
 |  |  [__17장__](./4_Entities_Encodings_and_Internationalization/17_Content_Negotiation_and_Transcoding.md) 내용 협상과 트랜스코딩 | 2021. 02. 16. | 최지원 |
 |||||
 | [__5부 콘텐츠 발행 및 배포__](https://github.com/comeducmd/http-study/tree/master/5_Publishing_and_Distribuiting_Content) | 　 | 　 | 　 |
-|  |  [__18장__](./5_Content_Publishing_and_Distribution/18_Web_Hosting.md) 웹 호스팅 | 2021. 02. 16. | 윤세린 |
-|  |  [__19장__](./5_Content_Publishing_and_Distribution/19_Publishing_Systems.md) 배포 시스템 | 2021. 02. 23. | 장정윤 |
-|  |  [__20장__](./5_Content_Publishing_and_Distribution/20_Redirection_and_Load_Balancing.md) 리다이렉션과 부하 균형 | 2021. 02. 23. | 박성우 |
-|  |  [__21장__](./5_Content_Publishing_and_Distribution/21_Logging_and_Usage_Tracking.md) 로깅과 사용 추적 | 2021. 02. 23. | 김준영 |
+|  |  [__18장__](./5_Publishing_and_Distribuiting_Content/18_Web_Hosting.md) 웹 호스팅 | 2021. 02. 16. | 윤세린 |
+|  |  [__19장__](./5_Publishing_and_Distribuiting_Content/19_Publishing_Systems.md) 배포 시스템 | 2021. 02. 23. | 장정윤 |
+|  |  [__20장__](./5_Publishing_and_Distribuiting_Content/20_Redirection_and_Load_Balancing.md) 리다이렉션과 부하 균형 | 2021. 02. 23. | 박성우 |
+|  |  [__21장__](./5_Publishing_and_Distribuiting_Content/21_Logging_and_Usage_Tracking.md) 로깅과 사용 추적 | 2021. 02. 23. | 김준영 |
 
 ### 참가자
 - [최지원](https://github.com/jason-choi-skku)
