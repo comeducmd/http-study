@@ -46,3 +46,6 @@
 
 ### 참고
 [이 레포지토리](https://github.com/Kraken-Addicts/HTTP-The-Definitive-Guide)의 표를 참고해 README, 폴더 구조를 만들었습니다.
+
+### 추가 자료
+HTTP 완벽 가이드를 조금 더 자세하게 보고 싶다면 [여기](https://github.com/comeducmd/books/tree/main/HTTP-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)를 확인해주세요.
